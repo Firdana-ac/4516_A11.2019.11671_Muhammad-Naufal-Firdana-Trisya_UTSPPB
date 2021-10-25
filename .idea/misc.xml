@@ -1,5 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ASUS/Documents/4516_A11.2019.11671_Muhammad Naufal Firdana Trisya_UTSPPB/app/src/main/res/layout/activity_forgot_password.xml" value="0.17481884057971014" />
+        <entry key="..\:/Users/ASUS/Documents/4516_A11.2019.11671_Muhammad Naufal Firdana Trisya_UTSPPB/app/src/main/res/layout/activity_login.xml" value="0.17481884057971014" />
+        <entry key="..\:/Users/ASUS/Documents/4516_A11.2019.11671_Muhammad Naufal Firdana Trisya_UTSPPB/app/src/main/res/layout/activity_main.xml" value="0.13722826086956522" />
+        <entry key="..\:/Users/ASUS/Documents/4516_A11.2019.11671_Muhammad Naufal Firdana Trisya_UTSPPB/app/src/main/res/layout/activity_register.xml" value="0.17481884057971014" />
+        <entry key="..\:/Users/ASUS/Documents/4516_A11.2019.11671_Muhammad Naufal Firdana Trisya_UTSPPB/app/src/main/res/layout/activity_register_result.xml" value="0.17481884057971014" />
+        <entry key="..\:/Users/ASUS/Documents/4516_A11.2019.11671_Muhammad Naufal Firdana Trisya_UTSPPB/app/src/main/res/layout/activity_reset_password.xml" value="0.17481884057971014" />
+        <entry key="..\:/Users/ASUS/Documents/4516_A11.2019.11671_Muhammad Naufal Firdana Trisya_UTSPPB/app/src/main/res/layout/activity_welcome.xml" value="0.17481884057971014" />
+      </map>
+    </option>
+  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
