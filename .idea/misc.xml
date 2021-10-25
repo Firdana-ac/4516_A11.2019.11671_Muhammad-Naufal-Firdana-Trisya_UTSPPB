@@ -3,6 +3,8 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/ASUS/Documents/4516_A11.2019.11671_Muhammad Naufal Firdana Trisya_UTSPPB/app/src/main/res/layout/activity_content_view.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/ASUS/Documents/4516_A11.2019.11671_Muhammad Naufal Firdana Trisya_UTSPPB/app/src/main/res/layout/activity_detail_pet.xml" value="0.13020833333333334" />
         <entry key="..\:/Users/ASUS/Documents/4516_A11.2019.11671_Muhammad Naufal Firdana Trisya_UTSPPB/app/src/main/res/layout/activity_forgot_password.xml" value="0.17481884057971014" />
         <entry key="..\:/Users/ASUS/Documents/4516_A11.2019.11671_Muhammad Naufal Firdana Trisya_UTSPPB/app/src/main/res/layout/activity_login.xml" value="0.17481884057971014" />
         <entry key="..\:/Users/ASUS/Documents/4516_A11.2019.11671_Muhammad Naufal Firdana Trisya_UTSPPB/app/src/main/res/layout/activity_main.xml" value="0.13722826086956522" />
@@ -10,6 +12,11 @@
         <entry key="..\:/Users/ASUS/Documents/4516_A11.2019.11671_Muhammad Naufal Firdana Trisya_UTSPPB/app/src/main/res/layout/activity_register_result.xml" value="0.17481884057971014" />
         <entry key="..\:/Users/ASUS/Documents/4516_A11.2019.11671_Muhammad Naufal Firdana Trisya_UTSPPB/app/src/main/res/layout/activity_reset_password.xml" value="0.17481884057971014" />
         <entry key="..\:/Users/ASUS/Documents/4516_A11.2019.11671_Muhammad Naufal Firdana Trisya_UTSPPB/app/src/main/res/layout/activity_welcome.xml" value="0.17481884057971014" />
+        <entry key="..\:/Users/ASUS/Documents/4516_A11.2019.11671_Muhammad Naufal Firdana Trisya_UTSPPB/app/src/main/res/layout/item_cardview_pet.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/ASUS/Documents/4516_A11.2019.11671_Muhammad Naufal Firdana Trisya_UTSPPB/app/src/main/res/layout/item_grid_pet.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/ASUS/Documents/4516_A11.2019.11671_Muhammad Naufal Firdana Trisya_UTSPPB/app/src/main/res/layout/item_row_destinasi.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/ASUS/Documents/4516_A11.2019.11671_Muhammad Naufal Firdana Trisya_UTSPPB/app/src/main/res/menu/menu.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/ASUS/Documents/4516_A11.2019.11671_Muhammad Naufal Firdana Trisya_UTSPPB/app/src/main/res/menu/menu_main.xml" value="0.13020833333333334" />
       </map>
     </option>
   </component>

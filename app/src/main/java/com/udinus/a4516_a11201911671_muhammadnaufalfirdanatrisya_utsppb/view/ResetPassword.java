@@ -63,7 +63,7 @@ public class ResetPassword extends AppCompatActivity {
             Toast.makeText(view.getContext(), "Password Confirm Tidak Sama!", Toast.LENGTH_LONG).show();
         }
         else {
-            Intent i = new Intent(ResetPassword.this, LoginActivity.class);
+            Intent i = new Intent(ResetPassword.this, ContentViewActivity.class);
             startActivity(i);
         }
     }

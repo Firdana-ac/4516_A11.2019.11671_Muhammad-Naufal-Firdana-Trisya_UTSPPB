@@ -10,6 +10,12 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.4516_A11201911671_MuhammadNaufalFirdanaTrisya_UTSPPB">
         <activity
+            android:name=".view.ContentViewActivity"
+            android:exported="false" />
+        <activity
+            android:name=".content.DetailDestinasiActivity"
+            android:exported="false" />
+        <activity
             android:name=".view.RegisterActivity"
             android:exported="false" />
         <activity
