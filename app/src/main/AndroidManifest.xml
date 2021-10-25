@@ -10,6 +10,24 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.4516_A11201911671_MuhammadNaufalFirdanaTrisya_UTSPPB">
         <activity
+            android:name=".view.RegisterActivity"
+            android:exported="false" />
+        <activity
+            android:name=".view.ForgotPassword"
+            android:exported="false" />
+        <activity
+            android:name=".view.LoginActivity"
+            android:exported="false" />
+        <activity
+            android:name=".view.RegisterResultActivity"
+            android:exported="false" />
+        <activity
+            android:name=".view.ResetPassword"
+            android:exported="false" />
+        <activity
+            android:name=".view.WelcomeActivity"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
