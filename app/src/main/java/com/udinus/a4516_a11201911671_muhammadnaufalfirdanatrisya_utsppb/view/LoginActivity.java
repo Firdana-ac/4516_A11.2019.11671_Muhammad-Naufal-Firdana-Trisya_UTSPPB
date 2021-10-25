@@ -41,7 +41,7 @@ public class LoginActivity extends AppCompatActivity {
         startActivity(i);
     }
 
-    public void Login(View view) {
+    /*public void Login(View view) {
         // Validasi input email dan password kosong
         if (TextUtils.isEmpty(editTextEmail.getText().toString().trim()) &&
                 TextUtils.isEmpty(editTextPassword.getText().toString().trim())) {
@@ -61,7 +61,7 @@ public class LoginActivity extends AppCompatActivity {
             Intent i = new Intent(LoginActivity.this, ContentViewActivity.class);
             startActivity(i);
         }
-    }
+    }*/
 
     /**
      * Email validation

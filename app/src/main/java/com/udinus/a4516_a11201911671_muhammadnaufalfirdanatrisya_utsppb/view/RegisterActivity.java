@@ -10,6 +10,7 @@ import android.widget.RadioButton;
 import android.widget.RadioGroup;
 
 import com.udinus.a4516_a11201911671_muhammadnaufalfirdanatrisya_utsppb.R;
+import com.udinus.a4516_a11201911671_muhammadnaufalfirdanatrisya_utsppb.models.Register;
 
 public class RegisterActivity extends AppCompatActivity {
 

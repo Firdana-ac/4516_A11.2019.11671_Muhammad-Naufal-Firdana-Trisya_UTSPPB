@@ -10,7 +10,7 @@
         android:layout_width="50dp"
         android:layout_height="49dp"
         android:outlineAmbientShadowColor="@color/purple_200"
-        android:src="@drawable/wiggle2"
+        android:src="@drawable/wiggle_logo"
         app:layout_anchor="@+id/rg_jenis_kelamin"
         app:layout_anchorGravity="end|top" />
 
@@ -19,7 +19,7 @@
         android:layout_width="45dp"
         android:layout_height="39dp"
         android:outlineAmbientShadowColor="@color/purple_200"
-        android:src="@drawable/wiggle2"
+        android:src="@drawable/wiggle_logo"
         app:layout_anchor="@+id/button"
         app:layout_anchorGravity="start|top" />
 

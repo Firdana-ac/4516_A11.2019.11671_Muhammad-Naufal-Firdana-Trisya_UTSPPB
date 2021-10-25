@@ -12,7 +12,7 @@
         android:layout_height="323dp"
         android:layout_marginTop="405dp"
         android:layout_marginEnd="125dp"
-        android:src="@drawable/pet1"
+        android:src="@drawable/wiggle_logo"
         app:layout_anchorGravity="start|top"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
@@ -23,7 +23,7 @@
         android:layout_height="53dp"
         android:layout_marginTop="16dp"
         android:layout_marginEnd="354dp"
-        android:src="@drawable/wiggle2"
+        android:src="@drawable/wiggle_logo"
         app:layout_anchorGravity="start|top"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
@@ -34,7 +34,7 @@
         android:layout_height="143dp"
         android:layout_marginTop="357dp"
         android:layout_marginEnd="56dp"
-        android:src="@drawable/wiggle2"
+        android:src="@drawable/wiggle_logo"
         app:layout_anchorGravity="start|top"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
@@ -45,7 +45,7 @@
         android:layout_height="53dp"
         android:layout_marginTop="280dp"
         android:layout_marginEnd="340dp"
-        android:src="@drawable/wiggle2"
+        android:src="@drawable/wiggle_logo"
         app:layout_anchorGravity="start|top"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toTopOf="parent" />

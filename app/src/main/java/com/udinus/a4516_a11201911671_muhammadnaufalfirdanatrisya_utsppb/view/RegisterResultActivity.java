@@ -6,6 +6,7 @@ import android.os.Bundle;
 import android.widget.TextView;
 
 import com.udinus.a4516_a11201911671_muhammadnaufalfirdanatrisya_utsppb.R;
+import com.udinus.a4516_a11201911671_muhammadnaufalfirdanatrisya_utsppb.models.Register;
 
 public class RegisterResultActivity extends AppCompatActivity {
 
