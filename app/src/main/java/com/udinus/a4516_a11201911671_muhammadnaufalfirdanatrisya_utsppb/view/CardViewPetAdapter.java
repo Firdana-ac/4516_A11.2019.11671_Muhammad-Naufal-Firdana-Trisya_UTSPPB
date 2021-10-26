@@ -1,4 +1,4 @@
-package com.udinus.a4516_a11201911671_muhammadnaufalfirdanatrisya_utsppb.content;
+package com.udinus.a4516_a11201911671_muhammadnaufalfirdanatrisya_utsppb.view;
 
 import android.content.Context;
 import android.content.Intent;
@@ -75,6 +75,7 @@ public class CardViewPetAdapter extends RecyclerView.Adapter<CardViewPetAdapter.
             @Override
             public void onItemClicked(View view, int position) {
                 Intent intent = new Intent(context, DetailPetActivity.class);
+                /*Intent intent = new Intent(context, DetailPetActivity.class);*/
                 intent.putExtra(DetailPetActivity.EXTRA_NAMA, getListPet().get(position).getName());
                 intent.putExtra(DetailPetActivity.EXTRA_REMARK, getListPet().get(position).getRemarks());
                 intent.putExtra(DetailPetActivity.EXTRA_FOTO, getListPet().get(position).getPhoto());

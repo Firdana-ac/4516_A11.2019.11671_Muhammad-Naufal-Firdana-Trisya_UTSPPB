@@ -1,4 +1,4 @@
-package com.udinus.a4516_a11201911671_muhammadnaufalfirdanatrisya_utsppb.content;
+package com.udinus.a4516_a11201911671_muhammadnaufalfirdanatrisya_utsppb.view;
 
 import android.view.View;
 

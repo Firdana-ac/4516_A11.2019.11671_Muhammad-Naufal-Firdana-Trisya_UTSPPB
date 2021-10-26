@@ -12,10 +12,6 @@ import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.udinus.a4516_a11201911671_muhammadnaufalfirdanatrisya_utsppb.R;
-import com.udinus.a4516_a11201911671_muhammadnaufalfirdanatrisya_utsppb.content.CardViewPetAdapter;
-import com.udinus.a4516_a11201911671_muhammadnaufalfirdanatrisya_utsppb.content.GridPetAdapter;
-import com.udinus.a4516_a11201911671_muhammadnaufalfirdanatrisya_utsppb.content.ItemClickSupport;
-import com.udinus.a4516_a11201911671_muhammadnaufalfirdanatrisya_utsppb.content.ListPetAdapter;
 import com.udinus.a4516_a11201911671_muhammadnaufalfirdanatrisya_utsppb.models.Pet;
 import com.udinus.a4516_a11201911671_muhammadnaufalfirdanatrisya_utsppb.models.PetData;
 
@@ -32,7 +28,7 @@ public class ContentViewActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
+        setContentView(R.layout.activity_content_view);
 
         rvCategory = findViewById(R.id.rv_category);
         rvCategory.setHasFixedSize(true);
@@ -66,7 +62,7 @@ public class ContentViewActivity extends AppCompatActivity {
 
         ItemClickSupport.addTo(rvCategory).setOnItemClickListener(new ItemClickSupport.OnItemClickListener() {
             @Override
-            public void onItemClicked(RecyclerView recyclerView, int position, View v) {
+            public void onItemClicked(RecyclerView recyclerView, int position, View view) {
                 showSelectedPet(list.get(position));
             }
         });
@@ -80,7 +76,7 @@ public class ContentViewActivity extends AppCompatActivity {
 
         ItemClickSupport.addTo(rvCategory).setOnItemClickListener(new ItemClickSupport.OnItemClickListener() {
             @Override
-            public void onItemClicked(RecyclerView recyclerView, int position, View v) {
+            public void onItemClicked(RecyclerView recyclerView, int position, View view) {
                 showSelectedPet(list.get(position));
 
             }

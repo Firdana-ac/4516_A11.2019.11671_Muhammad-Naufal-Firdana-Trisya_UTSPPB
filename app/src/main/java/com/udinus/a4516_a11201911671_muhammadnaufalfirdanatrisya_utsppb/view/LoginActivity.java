@@ -41,7 +41,7 @@ public class LoginActivity extends AppCompatActivity {
         startActivity(i);
     }
 
-    public void Login(View view) {
+    public void clickLogin(View view) {
         // Validasi input email dan password kosong
         if (TextUtils.isEmpty(editTextEmail.getText().toString().trim()) &&
                 TextUtils.isEmpty(editTextPassword.getText().toString().trim())) {

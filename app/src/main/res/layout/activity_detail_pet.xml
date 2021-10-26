@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context=".content.DetailPetActivity">
+    tools:context=".view.DetailPetActivity">
 
     <LinearLayout
         android:layout_width="match_parent"

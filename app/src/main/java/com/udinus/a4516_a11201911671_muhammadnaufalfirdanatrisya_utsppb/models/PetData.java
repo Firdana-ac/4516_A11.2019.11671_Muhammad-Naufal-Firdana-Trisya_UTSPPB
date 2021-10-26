@@ -5,10 +5,10 @@ import java.util.ArrayList;
 public class PetData {
     public static String[][] data = new String[][]{
 
-            {"Puncak Gadjah", "Purbalingga (1,440 mdpl)", "https://sgp1.digitaloceanspaces.com/tz-mag-id/wp-content/uploads/2018/09/010109093535/gunung-pemula-1.jpg",
+            {"Musang", "Purbalingga (1,440 mdpl)", "https://sgp1.digitaloceanspaces.com/tz-mag-id/wp-content/uploads/2018/09/010109093535/gunung-pemula-1.jpg",
                     "Puncak Gadjah merupakan bagian dari rangkaian Gunung Pulosari, Purbalingga yang terletak di kaki Gunung Slamet. Di sinilah kamu bisa menikmati panorama golden sunrise dengan latar belakang Gunung Sindoro yang mengagumkan. Untuk mencapai puncak, kamu hanya membutuhkan waktu 30 menit hingga satu jam dari area parkir di Desa Karangreja. Jika hendak berburu sunrise jangan lupa menggunakan jaket tebal ya, karena suhu di sini bisa sangat dingin hingga 15 derajat Celcius lho.",
                     "Kabupaten Pemalang, Jawa Tengah"},
-            {"Gunung Papandayan", "Garut (2,665 mdpl)", "https://upload.wikimedia.org/wikipedia/commons/7/7c/Taman_Wisata_Alam_Gunung_Papandayan_Kabupaten_Garut_Jawa_Barat.jpg",
+            {"Kucing Anggora", "Garut (2,665 mdpl)", "https://upload.wikimedia.org/wikipedia/commons/7/7c/Taman_Wisata_Alam_Gunung_Papandayan_Kabupaten_Garut_Jawa_Barat.jpg",
                     "Selain medannya yang landai, kamu juga akan dimudahkan dengan segala fasilitas untuk para pendaki di sepanjang jalur pendakian menuju puncak. Mulai dari toilet hingga warung makan di atas puncak bisa dengan mudah kamu temui. Meskipun tergolong mudah, namun pemandangan yang ditawarkan sepanjang jalur pendakian tidak bisa diremehkan. Salah satunya adalah menikmati suasana mistis di Hutan Mati. Pokoknya tidak akan menyesal deh naik Gunung Papandayan.",
                     "Kabupaten Garut, Jawa Barat"},
             {"Gunung Andong", "Magelang (1,463 mdpl)", "https://media.travelingyuk.com/wp-content/uploads/2018/09/Gunung-Andong.jpg",
