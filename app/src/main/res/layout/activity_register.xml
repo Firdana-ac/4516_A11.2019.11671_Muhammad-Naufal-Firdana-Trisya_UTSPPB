@@ -10,7 +10,7 @@
         android:layout_width="50dp"
         android:layout_height="49dp"
         android:outlineAmbientShadowColor="@color/purple_200"
-        android:src="@drawable/wiggle_logo"
+        android:src="@drawable/wiggle"
         app:layout_anchor="@+id/rg_jenis_kelamin"
         app:layout_anchorGravity="end|top" />
 
@@ -19,7 +19,7 @@
         android:layout_width="45dp"
         android:layout_height="39dp"
         android:outlineAmbientShadowColor="@color/purple_200"
-        android:src="@drawable/wiggle_logo"
+        android:src="@drawable/wiggle"
         app:layout_anchor="@+id/button"
         app:layout_anchorGravity="start|top" />
 
@@ -55,7 +55,7 @@
         android:layout_marginTop="109dp"
         android:layout_marginEnd="24dp"
         android:hint="Enter Your Name"
-        android:inputType="textEmailAddress"
+        android:inputType="textPersonName"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
@@ -151,6 +151,7 @@
         android:layout_marginEnd="24dp"
         android:ems="10"
         android:hint="Masukan Email"
+        android:inputType="textEmailAddress"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.972"
         app:layout_constraintStart_toStartOf="parent"

@@ -2,6 +2,9 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.udinus.a4516_a11201911671_muhammadnaufalfirdanatrisya_utsppb">
 
+    <uses-permission android:name="android.permission.INTERNET" />
+
+
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
@@ -13,11 +16,11 @@
             android:name=".view.ContentViewActivity"
             android:exported="false" />
         <activity
-            android:name=".content.DetailDestinasiActivity"
-            android:exported="false" />
+            android:name=".view.DetailPetActivity"
+            android:parentActivityName=".view.ContentViewActivity"></activity>/>
         <activity
             android:name=".view.RegisterActivity"
-            android:exported="false" />
+            android:parentActivityName=".view.RegisterResultActivity" />
         <activity
             android:name=".view.ForgotPassword"
             android:exported="false" />

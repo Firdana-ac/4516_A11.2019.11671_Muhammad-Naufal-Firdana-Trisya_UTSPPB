@@ -12,6 +12,10 @@ import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.udinus.a4516_a11201911671_muhammadnaufalfirdanatrisya_utsppb.R;
+import com.udinus.a4516_a11201911671_muhammadnaufalfirdanatrisya_utsppb.content.CardViewPetAdapter;
+import com.udinus.a4516_a11201911671_muhammadnaufalfirdanatrisya_utsppb.content.GridPetAdapter;
+import com.udinus.a4516_a11201911671_muhammadnaufalfirdanatrisya_utsppb.content.ItemClickSupport;
+import com.udinus.a4516_a11201911671_muhammadnaufalfirdanatrisya_utsppb.content.ListPetAdapter;
 import com.udinus.a4516_a11201911671_muhammadnaufalfirdanatrisya_utsppb.models.Pet;
 import com.udinus.a4516_a11201911671_muhammadnaufalfirdanatrisya_utsppb.models.PetData;
 

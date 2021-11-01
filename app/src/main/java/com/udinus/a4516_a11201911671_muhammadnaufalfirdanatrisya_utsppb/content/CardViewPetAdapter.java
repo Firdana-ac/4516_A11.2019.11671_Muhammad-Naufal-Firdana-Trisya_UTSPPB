@@ -1,4 +1,4 @@
-package com.udinus.a4516_a11201911671_muhammadnaufalfirdanatrisya_utsppb.view;
+package com.udinus.a4516_a11201911671_muhammadnaufalfirdanatrisya_utsppb.content;
 
 import android.content.Context;
 import android.content.Intent;
@@ -17,6 +17,7 @@ import com.bumptech.glide.Glide;
 import com.bumptech.glide.request.RequestOptions;
 import com.udinus.a4516_a11201911671_muhammadnaufalfirdanatrisya_utsppb.R;
 import com.udinus.a4516_a11201911671_muhammadnaufalfirdanatrisya_utsppb.models.Pet;
+import com.udinus.a4516_a11201911671_muhammadnaufalfirdanatrisya_utsppb.view.DetailPetActivity;
 
 import java.util.ArrayList;
 
@@ -75,7 +76,6 @@ public class CardViewPetAdapter extends RecyclerView.Adapter<CardViewPetAdapter.
             @Override
             public void onItemClicked(View view, int position) {
                 Intent intent = new Intent(context, DetailPetActivity.class);
-                /*Intent intent = new Intent(context, DetailPetActivity.class);*/
                 intent.putExtra(DetailPetActivity.EXTRA_NAMA, getListPet().get(position).getName());
                 intent.putExtra(DetailPetActivity.EXTRA_REMARK, getListPet().get(position).getRemarks());
                 intent.putExtra(DetailPetActivity.EXTRA_FOTO, getListPet().get(position).getPhoto());

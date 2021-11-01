@@ -2,7 +2,9 @@ package com.udinus.a4516_a11201911671_muhammadnaufalfirdanatrisya_utsppb.view;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.content.Intent;
 import android.os.Bundle;
+import android.view.View;
 import android.widget.TextView;
 
 import com.udinus.a4516_a11201911671_muhammadnaufalfirdanatrisya_utsppb.R;
@@ -44,4 +46,9 @@ public class RegisterResultActivity extends AppCompatActivity {
         tvResultUsername.setText(register.getUsername());
 
     }
+    public void loginPage(View view) {
+        Intent i = new Intent(RegisterResultActivity.this,LoginActivity.class);
+        startActivity(i);
+    }
+
 }
